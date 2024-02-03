@@ -1,5 +1,5 @@
 # MTPNet
-Code of paper ["Multi-scale Transformer Pyramid Networks for Multivariate Time Series Forecasting"] ([IEEE Access](https://ieeexplore.ieee.org/abstract/document/10412052))
+Code of paper [Multi-scale Transformer Pyramid Networks for Multivariate Time Series Forecasting](https://ieeexplore.ieee.org/abstract/document/10412052)
 
 MTPNet achieves SOTA on nine benchmarks.
 
