@@ -28,14 +28,13 @@ If you find this repository beneficial for your research, kindly include a citat
 @ARTICLE{10412052,
   author={Zhang, Yifan and Wu, Rui and Dascalu, Sergiu M. and Harris, Frederick C.},
   journal={IEEE Access}, 
-  title={Multi-scale Transformer Pyramid Networks for Multivariate Time Series Forecasting}, 
+  title={Multi-Scale Transformer Pyramid Networks for Multivariate Time Series Forecasting}, 
   year={2024},
-  volume={},
+  volume={12},
   number={},
-  pages={1-1},
-  keywords={Transformers;Forecasting;Decoding;Market research;Time series analysis;Predictive models;Data models;Time series analysis;time series forecasting;transformer;multi-scale feature pyramid;value embedding},
+  pages={14731-14741},
+  keywords={Transformers;Forecasting;Decoding;Market research;Time series analysis;Predictive models;Data models;Time series analysis;Time series forecasting;transformer;multi-scale feature pyramid;value embedding},
   doi={10.1109/ACCESS.2024.3357693}}
-
 ```
 
 ## Acknowledgements
